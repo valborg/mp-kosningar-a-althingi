@@ -3,4 +3,4 @@ XML parser og python uppsetning á gögnum fyrir kosningar þingmanna á Alþing
 
 Öll möguleg föll eru inni í þessari einu skrá setup.py, búist er við ákveðinni skráar uppsetningu (að allt sé inni í data/*).
 
-Ef þú hefur ekki tíma til að sækja öll gögn geturðu byrjað á að nota pikkluðu gögnin.
+Ef þú hefur ekki tíma til að sækja öll gögn geturðu byrjað á að nota pikkluðu gögnin sem eru í Releases althingi1.0.0.
